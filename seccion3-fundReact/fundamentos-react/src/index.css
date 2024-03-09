@@ -1,0 +1,13 @@
+.text-center{
+  text-align: center;
+}
+
+.text-primary{
+  text-align: center;
+  color: red;
+}
+
+.text-info{
+  text-align: center;
+  color: blueviolet;
+}

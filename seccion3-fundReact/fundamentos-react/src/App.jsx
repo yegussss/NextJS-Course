@@ -12,7 +12,7 @@ const App = () => {
     const classTitle = "text-center";
     const altImg = 'Imagen sacada de internet';
     const frutas = ['🍎', '🍌', '🍐', '🍑']
-    var user = true;
+    var user = false;
 
     return (
         <>
